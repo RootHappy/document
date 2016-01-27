@@ -38,6 +38,21 @@
 - kill PID
 - killall process-name
 - export
+- id
+- chmod
+- chgrp
+- chown
+- passwd
+- su
+- ps
+- top
+- jobs
+- bg
+- fg
+- kill
+- killall
+- shutdown
+- pstree
 
 ---------------------------
 - 获取文件开头结尾指定行数
