@@ -1,0 +1,45 @@
+### The Common Linux Command
+
+- date ： The command displays the current time and date.
+- cal : The Command displays a calendar of the current month.
+- df ：To see the current amount of free space on your disk drives.
+- free: To display the amount of free memory.
+- exit : To exit the terminal
+- pwd : Print the current working directory.
+- ls ： To list the files and directories in the current working directory.
+- cd ： Change directory
+- file : Determining a file's type
+- less
+- mkdir : create directories
+- cp : copy files and directories
+- mv : move file and directories
+- rm : remove files and directories
+- ln : The ln command is used to create either hard or symbolic links.
+- type : display a command's type.
+- which : display a excutable's Location.
+- help : get help for shell's builtins.
+- man : display a program's manual page.
+- apropos: display appropriate commands.
+- whatis : display a very brief Description of a command.
+- info :Display a program's info Entry.
+- alias: Create our alias or see all the aliases define in the environment.
+- unalias : To remove an alias
+- cat
+- uniq
+- wc
+- grep
+- head
+- tail
+- tee
+- ps
+- top
+- jobs
+- bg
+- kill
+- chmod
+- chown
+- chgrp
+- id
+- su
+- sudo
+- passwd
